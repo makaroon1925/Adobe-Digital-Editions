@@ -209,4 +209,4 @@ This repository serves as the official landing page for Adobe Digital Editions. 
 **Get the most recent version of Adobe Digital Editions today!**
 
 ---
-**Last updated:** 2026-11-10 21:10:05 UTC
+**Last updated:** 2026-11-11 01:40:17 UTC
